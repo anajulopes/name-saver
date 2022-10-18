@@ -14,5 +14,6 @@ _actually realized that i broke my code one more time before uploading it and i 
 
 **I'm having these troubles:** 
 
-1. -When you reach 5 names, instead of directly showing you the option to erase it all or keep it, it asks you one more time if you want to add a new name;
-2. -Wrong answer thing is not happening;
+1. When you reach 5 names, instead of directly showing you the option to erase it all or keep it, it asks you one more time if you want to add a new name;
+2. Wrong answer thing is not happening;
+3. Choosing to clean the list and restart the loop doesn't works, i don't have a clue about how to make the code "go back"
